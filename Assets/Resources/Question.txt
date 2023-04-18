@@ -1,0 +1,8 @@
+排序:0、请将选项按照正确顺序排序 :a:c:d:e:b:f:abcdef
+单选:1、列字母的的排列有误的一组是 :A、ABCIEF :B、GHIIJK :C、 LMNOPQ :D、RSTUVW :2
+单选:2、下列大小形式互换完全正确的是 ( ) :A、Tt Wu :B、Yy Nn :C、Gg LI :D、Qp Rr :2
+单选:3、“壮"这个字如果用音序查字法来查的话，应查 () :A、z :B、zh :C、zuang :D、zhuang :1
+多选:4、abc包含哪几个字母() :A、a :B、b :C、c :D、d :123
+多选:5、bcd包含哪几个字母() :A、a :B、b :C、c :D、d :234
+排序:6、请将选项按照正确顺序排序 :a:c:d:e:b:f:abcdef
+排序:7、请将选项按照正确顺序排序 :a:c:d:e:b:f:abcdef
